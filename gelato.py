@@ -6,7 +6,7 @@ import io
 
 
 st.set_page_config(
-     page_title="Gelato Balance",
+     page_title="Gelato Balancer",
      page_icon='🍨',
      layout="centered",
      initial_sidebar_state="collapsed",
