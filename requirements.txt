@@ -6,4 +6,7 @@ pandas
 Pillow==8.4.0
 plotly==5.6.0
 streamlit==1.5.1
+streamlit-lottie>=0.0.3
+requests
 XlsxWriter
+click==7.1.2
