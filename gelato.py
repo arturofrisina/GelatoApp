@@ -11,7 +11,7 @@ st.set_page_config(
      layout="centered",
      initial_sidebar_state="collapsed",
      menu_items={
-         'About': "### Visit us: https://www.illva.com/"})
+         'About': "### Contact me: \n ## https://arturofrisina.github.io/"})
 
 
 
@@ -190,7 +190,7 @@ with col3_s:
     st.metric('Freezing Point', value='%.2f °C'%fpd,delta='')
 
      
-st.sidebar.subheader('My recipe')
+st.sidebar.subheader('Arturo Frisina ©2023')
 
 
 
